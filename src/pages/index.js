@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import { Link } from "gatsby"
 
 import List from "../components/list"
-import Modal from "../components/modal"
+import Modal from "../components/Modal"
 import Title from "../components/title"
 
 import Layout from "../components/layout"
