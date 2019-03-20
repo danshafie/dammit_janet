@@ -1,7 +1,6 @@
 import React, { useEffect, useRef } from "react"
 
 const Modal = props => {
-  console.log("props: ", props)
   let modalRef = useRef(null)
 
   useEffect(() => {

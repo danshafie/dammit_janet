@@ -930,12 +930,15 @@ footer {
   }
   .large-title {
     bottom: 100px;
-    font-size: 58px;
+    font-size: 48px;
   }
   .result {
     font-size: 28px;
   }
   .modal {
     max-width: 360px;
+  }
+  .title {
+    font-size: 40px;
   }
 }
