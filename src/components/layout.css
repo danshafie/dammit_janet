@@ -918,7 +918,7 @@ footer {
     transform: translateX(40px) translateY(50px);
   }
   to {
-    transform: translateX(0px) translateY(0px);
+    transform: translateX(0px) translateY(-70px);
   }
 }
 
@@ -951,5 +951,6 @@ footer {
   .title {
     font-size: 32px;
     text-shadow: 5px 3px 0 rgba(0, 0, 0, 0.7);
+    margin-bottom: 0px;
   }
 }
