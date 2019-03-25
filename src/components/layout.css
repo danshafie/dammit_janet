@@ -950,5 +950,6 @@ footer {
   }
   .title {
     font-size: 32px;
+    text-shadow: 5px 3px 0 rgba(0, 0, 0, 0.7);
   }
 }
