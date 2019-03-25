@@ -926,6 +926,7 @@ footer {
   .list {
     width: 100%;
     background: transparent;
+    z-index: 2;
   }
   .list-item {
     font-size: 21px;
@@ -939,6 +940,7 @@ footer {
   .large-title {
     bottom: 100px;
     font-size: 48px;
+    z-index: 1;
   }
   .result {
     font-size: 28px;
@@ -947,6 +949,6 @@ footer {
     max-width: 360px;
   }
   .title {
-    font-size: 40px;
+    font-size: 32px;
   }
 }
