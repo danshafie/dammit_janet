@@ -3,7 +3,7 @@ import Emoji from "emoji-dictionary"
 const Title = () => {
   return (
     <h5 className="large-title">
-      <span className="damn">DAMNIT</span> JANET{" "}
+      <span className="damn">DAMMIT</span> JANET{" "}
       {Emoji.getUnicode("blue_heart")}
     </h5>
   )
