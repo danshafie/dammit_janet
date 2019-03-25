@@ -647,6 +647,7 @@ pre tt:after {
   letter-spacing: 0.5px;
   cursor: pointer;
   transition: all 0.3s ease;
+  color: #3c0d0d;
 }
 
 .list-item:last-of-type p {
@@ -924,6 +925,7 @@ footer {
 @media (max-width: 768px) {
   .list {
     width: 100%;
+    background: transparent;
   }
   .list-item {
     font-size: 21px;
@@ -931,6 +933,8 @@ footer {
     margin-bottom: 10px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
     background: rgba(255, 255, 255, 0.4);
+    padding: 5px;
+    margin: 20px 0px;
   }
   .large-title {
     bottom: 100px;
